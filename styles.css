@@ -48,6 +48,8 @@ body {
     padding: 50px;
 }
 
+/* SECTION #1
+--------------------------------- */
 .top-banner {
     color: var(--text_light);
 }
@@ -95,6 +97,8 @@ body {
     min-height: 40px;
 }
 
+/* SECTION #2
+--------------------------------- */
 @media screen and (max-width: 700px) {
     .top-banner form {
         flex-direction: column;
